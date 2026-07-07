@@ -38,7 +38,7 @@ Notes:
     Theorem D and the idempotent proposition).
 
 Part of the consensus_curvature project. Machine-verified framework; the
-underlying theorems are working-draft (not peer reviewed).
+underlying theorems are working-draft 
 """
 
 import json
