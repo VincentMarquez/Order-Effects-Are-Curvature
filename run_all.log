@@ -1,0 +1,16 @@
+
+==========================================================================
+SCOREBOARD
+==========================================================================
+  Tier0 exact math (Thms A-E, rationals)               OK | ALL EXACT CHECKS PASSED
+  Tier0 rate law (Thm 5.x, numeric+exact)              OK | EXTERNAL BENCHMARK VERIFIED (public graph); hub-personalized pair comm
+  Tier0 open residuals (identity/lifts/Z-bound)        OK | saved repro/explore_open_residuals.json
+  Tier1 your-merge instruments (Prop 3.4 + Thm D)      OK | Your turn: import order_drift, hand it your fold. Verdict in one numbe
+  Tier1 S8.5 reverify (Perron rate + placement)        OK | PASS
+  Tier1 scribe/braid experiment                        OK | saved
+  Tier1 fusion Stokes localization                     OK | saved exp4_fusion_result.json
+  Tier1 robust-core instrument                         OK | saved exp6_robustcore_result.json
+  Tier1 37-check verification suite                    OK | FINAL TALLY: 37/37 checks passed  -- ALL MATH VERIFIED
+==========================================================================
+ALL GREEN
+RUNALL_EXIT 0
